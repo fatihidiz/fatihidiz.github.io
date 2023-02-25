@@ -143,7 +143,7 @@ aside {
 	margin-bottom: 40px;
 }
 
-#sidebar a, #main-art a, #univ a, #post a, #projects-page a{
+#sidebar a, #main-art a, #univ a, #post a, #notes-page a{
 	text-decoration: none;
 	color: lightseagreen;
 	outline: none;
@@ -159,7 +159,7 @@ aside {
     text-align: center;
 }
 
-#tags a:hover, #projects-page a:hover{
+#tags a:hover, #notes-page a:hover{
     opacity: 0.75;
 }
 
@@ -177,13 +177,13 @@ article#main-art{
     width: 65%;
 }
 
-#projects, #skills{
+#notes, #skills{
 	margin-top: 30px;
 	font-family: sans-serif;
 }
 
 /* My projects */
-ul#myprojects li{
+ul#mynotes li{
     margin-top: 10px;
   }
 
