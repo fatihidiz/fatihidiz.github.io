@@ -1,6 +1,6 @@
 :root {
-  --bg-color: #ffffff;
-  --font-color: #282828; /* 424242, 3B3B3B*/
+  --bg-color: #131313;
+  --font-color: #e5e5e5; /* 424242, 3B3B3B*/
 }
 
 [data-theme="dark"] {
