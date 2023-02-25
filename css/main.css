@@ -29,7 +29,7 @@ h5 { margin-top: 1.67em; margin-bottom: 1.67em; font-size: 0.83em; font-weight: 
 h6 { margin-top: 2.33em; margin-bottom: 2.33em; font-size: 0.67em; font-weight: bold; }
 
 .container {
-    width: 70%;
+    width: 60%;
     margin: auto; /* moves everything to middle */
     overflow: hidden; /* doesn't let the children to get out */
 }
