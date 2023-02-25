@@ -31,7 +31,7 @@ h6 { margin-top: 2.33em; margin-bottom: 2.33em; font-size: 0.67em; font-weight: 
 .container {
     width: 800px;
     margin: auto; /* moves everything to middle */
-    overflow: hidden; /* doesn't let the children to get out */
+    overflow: auto; /* doesn't let the children to get out */
 }
 
 #top_header {
