@@ -362,7 +362,7 @@ input#themeswitch {
 /* Pagination */
 .pagination a, .pagination span {
     padding: 7px 18px;
-    border: 1px solid #eee;
+    border: 1px solid #e5e5e5;
     margin-left: -2px;
     margin-right: -2px;
     background-color: #131313;
@@ -371,8 +371,8 @@ input#themeswitch {
   }
 
 .pagination a:hover {
-        background-color: #131313;
-        color: #238637;
+        background-color: #238637;
+        color: #e5e5e5;
 	text-decoration: underline;
     }
 
