@@ -80,6 +80,7 @@ p, li {
 nav {
     float: right;
     margin-top: -70px;
+    text-align: center;
 }
 
 nav a {
@@ -113,7 +114,6 @@ nav li {
     margin-top:20px;
     margin-bottom:20px;
     border-right: 1px solid #e5e5e5;
-    text-align: center;
 }
 
 nav a:hover {
