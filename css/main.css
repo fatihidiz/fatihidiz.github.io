@@ -109,11 +109,31 @@ nav li {
     font-family:'IBM Plex Sans', 'Trebuchet MS', sans-serif;
     display: inline;
     /* padding: 20px; */ /* top right bottom left */
-    margin-left:4px; 
-    margin-right:4px;
-    margin-top:20px; 
-    margin-bottom:20px;
+    /* margin-left:4px; */
+    /* margin-right:4px; */
+    /* margin-top:20px; */
+    /* margin-bottom:20px; */
     text-align: center;
+    border-right:2px solid #bbb;
+    border-top:2px solid #bbb;
+    border-bottom:2px solid #bbb;
+}
+
+nav li:first-child {
+  border-left: 2px solid #bbb;
+}
+
+nav li:last-child {
+  border-right: none;
+}
+
+nav li a {
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 10px;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 nav a:hover {
