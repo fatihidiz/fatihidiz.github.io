@@ -107,8 +107,8 @@ nav li {
     font-family:'IBM Plex Sans', 'Trebuchet MS', sans-serif;
     display: inline;
     /* padding: 20px; */ /* top right bottom left */
-    margin-left:5px;
-    margin-right:5px;
+    margin-left:4px;
+    margin-right:4px;
     margin-top:20px;
     margin-bottom:20px;
 }
@@ -248,21 +248,22 @@ ul#mynotes li{
 
 #last_footer a{
 	text-decoration: none;
-	color: lightslategray;
+	color: #e5e5e5;
 	
 }
 
 #last_footer a:hover{
 	text-decoration: underline;
+	color: #238637;
 }
 
 #e404 a{
-    color: lightseagreen;
+    color: #e5e5e5;
     text-decoration: none;
 }
 
 #e404 a:hover{
-    color: orangered;
+    color: #238637;
 }
 
 iframe, object, embed, video{
@@ -357,7 +358,7 @@ input#themeswitch {
 
 /* Pagination */
 .pagination a, .pagination span {
-    padding: 7px 18px;
+    padding: 18px 18px;
     border: 1px solid #eee;
     margin-left: -2px;
     margin-right: -2px;
