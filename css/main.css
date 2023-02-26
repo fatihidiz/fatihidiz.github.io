@@ -111,6 +111,7 @@ nav li {
     margin-right:4px;
     margin-top:20px;
     margin-bottom:20px;
+    border-right: 1px solid #e5e5e5;
 }
 
 nav a:hover {
