@@ -364,11 +364,13 @@ input#themeswitch {
     margin-right: -2px;
     background-color: #131313;
     display: inline-block;
+    text-decoration: none;
   }
 
 .pagination a:hover {
         background-color: #131313;
         color: #238637;
+	text-decoration: underline;
     }
 
 .pagination {
