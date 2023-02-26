@@ -83,44 +83,48 @@ nav {
     text-align: center;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
+nav a {
+    color: #ffffff;
+    text-decoration: none;  /* removes underline from links */
+    text-transform: uppercase;
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+	/* outline: none;  outline provides accessiblity feature */
 }
 
-li {
-  float: left;
-  border:2px solid #bbb;
-  /*
-  border-top:2px solid #bbb;
-  border-bottom:2px solid #bbb;
-  border-left:2px solid #bbb;
-  */
+nav ul {
+    margin: 0px;
+    padding: 0px;  /* also removes bullets from list items */
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #cc0000;
 }
 
-/*
-li:first-child {
-  border-left: 2px solid #bbb;
+nav #post_algo{
+    margin-top: 30px;
 }
 
-li:last-child {
-  border-right: none;
-}
-*/
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 10px;
-  text-decoration: none;
+nav li {
+    font-family:'IBM Plex Sans', 'Trebuchet MS', sans-serif;
+    display: inline;
+    /* padding: 20px; */ /* top right bottom left */
+    margin-left:4px; 
+    margin-right:4px;
+    margin-top:20px; 
+    margin-bottom:20px;
+    text-align: center;
 }
 
-li: a:hover:not(.active) {
-  background-color: #111;
+nav a:hover {
+    color: #000000;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+nav .current a{
+	color: #cc0000;
+	font-weight: bold;
 }
 
 #btmnav {
@@ -451,3 +455,5 @@ input#themeswitch {
 * * * * * * * { background-color: rgba(255,0,0,.2); }
 * * * * * * * * { background-color: rgba(0,255,0,.2); }
 * * * * * * * * * { background-color: rgba(0,0,255,.2); } */
+
+
