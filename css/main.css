@@ -98,7 +98,6 @@ nav ul {
     list-style-type: none;
     overflow: hidden;
     background-color: #cc0000;
-    text-align: center;
 }
 
 nav #post_algo{
@@ -114,6 +113,7 @@ nav li {
     margin-top:20px;
     margin-bottom:20px;
     border-right: 1px solid #e5e5e5;
+    text-align: center;
 }
 
 nav a:hover {
