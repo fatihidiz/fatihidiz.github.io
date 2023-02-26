@@ -96,7 +96,7 @@ nav ul {
     padding: 0px;  /* also removes bullets from list items */
     list-style-type: none;
     overflow: hidden;
-    background-color: #333;
+    background-color: #131313;
 }
 
 nav #post_algo{
@@ -104,18 +104,18 @@ nav #post_algo{
 }
 
 nav li {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'IBM Plex Sans', 'Trebuchet MS', sans-serif;
     display: inline;
     padding: 20px; /* top right bottom left */
 }
 
 nav a:hover {
-    color: #cccccc;
+    color: #cc0000;
     font-weight: 500;
 }
 
 nav .current a{
-	color: #e8491d;
+	color: #cc0000;
 	font-weight: bold;
 }
 
