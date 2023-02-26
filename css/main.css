@@ -98,6 +98,7 @@ nav ul {
     list-style-type: none;
     overflow: hidden;
     background-color: #cc0000;
+    text-align: center;
 }
 
 nav #post_algo{
