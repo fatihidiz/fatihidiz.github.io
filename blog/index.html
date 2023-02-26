@@ -55,7 +55,7 @@ title: Technical Fridays | Blog
 
           {% for page in (1..paginator.total_pages) %}
             {% if page == paginator.page %}
-              <a href="#" onclick="return false;"></a><b>{{ page }}</b>
+              <a style="background-color: #cc0000; color: white;" href="#" onclick="return false;">{{ page }}</a>
             {% elsif page == 1 %}
               <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
             {% else %}
