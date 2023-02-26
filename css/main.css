@@ -96,8 +96,10 @@ li {
   border-right:2px solid #bbb;
   border-top:2px solid #bbb;
   border-bottom:2px solid #bbb;
+  border-left:2px solid #bbb;
 }
 
+/*
 li:first-child {
   border-left: 2px solid #bbb;
 }
@@ -105,6 +107,7 @@ li:first-child {
 li:last-child {
   border-right: none;
 }
+*/
 
 li a {
   display: block;
