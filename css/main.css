@@ -93,10 +93,12 @@ ul {
 
 li {
   float: left;
-  border-right:2px solid #bbb;
+  border:2px solid #bbb;
+  /*
   border-top:2px solid #bbb;
   border-bottom:2px solid #bbb;
   border-left:2px solid #bbb;
+  */
 }
 
 /*
