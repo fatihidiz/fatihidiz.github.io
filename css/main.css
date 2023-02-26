@@ -183,7 +183,7 @@ aside {
 
 article#main-art{
     float: left;
-    width: 65%;
+    width: 800px; /* 65% */
 }
 
 #notes, #skills{
