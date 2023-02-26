@@ -109,13 +109,11 @@ nav li {
     font-family:'IBM Plex Sans', 'Trebuchet MS', sans-serif;
     display: inline;
     /* padding: 20px; */ /* top right bottom left */
-    /* margin-left:4px; */
-    /* margin-right:4px; */
-    /* margin-top:20px; */
-    /* margin-bottom:20px; */
+    margin-left:4px; 
+    margin-right:4px;
+    margin-top:20px; 
+    margin-bottom:20px;
     text-align: center;
-    border: 2px solid #e5e5e5;
-    padding: 20px 10px 20px 10px;
 }
 
 nav a:hover {
