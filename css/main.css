@@ -153,8 +153,8 @@ aside {
 }
 
 #sidebar a, #main-art a, #univ a, #post a, #notes-page a{
-	text-decoration: none;
-	color: lightseagreen;
+	text-decoration: underline;
+	color: #238637;
 	outline: none;
 }
 
