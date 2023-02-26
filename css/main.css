@@ -88,6 +88,7 @@ nav a {
     text-transform: uppercase;
     display: inline-block;
     list-style: none;
+    text-align: center;
 	/* outline: none;  outline provides accessiblity feature */
 }
 
