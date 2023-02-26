@@ -127,7 +127,7 @@ nav li:last-child {
   border-right: none;
 }
 
-nav li a {
+li a {
   display: block;
   color: #000000;
   text-align: center;
