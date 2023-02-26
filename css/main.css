@@ -371,8 +371,7 @@ input#themeswitch {
   }
 
 .pagination a:hover {
-	color: #e5e5e5;
-        background-color: #238637;
+	color: #238637;
 	text-decoration: underline;
     }
 
