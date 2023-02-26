@@ -358,7 +358,7 @@ input#themeswitch {
 
 /* Pagination */
 .pagination a, .pagination span {
-    padding: 18px 18px;
+    padding: 38px 18px;
     border: 1px solid #eee;
     margin-left: -2px;
     margin-right: -2px;
