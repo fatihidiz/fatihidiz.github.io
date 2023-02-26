@@ -96,7 +96,7 @@ nav ul {
     padding: 0px;  /* also removes bullets from list items */
     list-style-type: none;
     overflow: hidden;
-    background-color: #131313;
+    background-color: #cc0000;
 }
 
 nav #post_algo{
@@ -114,7 +114,7 @@ nav li {
 }
 
 nav a:hover {
-    color: #cc0000;
+    color: #000000;
     font-weight: 500;
 }
 
