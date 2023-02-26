@@ -73,7 +73,8 @@ p, li {
 }
 
 #branding a:hover{
-	color: #cccccc;
+	color: #007b00;
+	text-decoration: underline;
 }
 
 nav {
