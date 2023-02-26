@@ -154,7 +154,7 @@ aside {
 
 #sidebar a, #main-art a, #univ a, #post a, #notes-page a{
 	text-decoration: underline;
-	color: #238637;
+	color: #e5e5e5;
 	outline: none;
 }
 
@@ -169,16 +169,16 @@ aside {
 }
 
 #tags a:hover, #notes-page a:hover{
-    opacity: 0.75;
+    color: #238637;
 }
 
 #main-art a:hover, #sidebar a:hover{
     /* color: darkgray; */
-    opacity: 0.75;
+    color: #238637;
 }
 
 #univ a:hover, #post a:hover{
-	color: orange;
+    color: #238637;
 }
 
 article#main-art{
