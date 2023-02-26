@@ -94,6 +94,9 @@ nav a {
 nav ul {
     margin: 0px;
     padding: 0px;  /* also removes bullets from list items */
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
 }
 
 nav #post_algo{
