@@ -10,7 +10,7 @@
 
 body {
     /* font: font-style font-variant font-weight font-size/line-height font-family */
-    font: 400 20px/1.6 'IBM Plex Sans', 'Trebuchet MS', sans-serif;
+    font: 400 19px/1.6 'IBM Plex Sans', 'Trebuchet MS', sans-serif;
     padding: 0px;
     margin: 0px;
     background-color: var(--bg-color);
